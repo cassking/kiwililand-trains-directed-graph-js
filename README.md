@@ -13,12 +13,11 @@ For the curious:
 In my journey to attempt to solve this  I learned  a bit about ALLL of these things:
 
 1.[Dijkstra’s super-famous algorithm] (https://medium.com/basecs/finding-the-shortest-path-with-a-little-help-from-dijkstra-613149fbdc8e)
+[Best video I found explaining the algorithm](https://www.youtube.com/watch?v=pVfj6mxhdMw)
 
-[Best video I found explaining the algorithm]('https://www.youtube.com/watch?v=pVfj6mxhdMw')
+2.[Graph Theory](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8)
 
-2. [Graph Theory]('https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8')
-
-3. Beyond Arrays and Hashes ALLLLLL the [Data Structures in JS]('http://blog.benoitvallon.com/data-structures-in-javascript/data-structures-in-javascript/')
+3.Beyond Arrays and Hashes ALLLLLL the [Data Structures in JS](http://blog.benoitvallon.com/data-structures-in-javascript/data-structures-in-javascript/)
 
 
 The Problem
