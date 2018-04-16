@@ -5,8 +5,8 @@ but I finally found a solution for 1. through 5. I attempted
 8. and 9. but I am hitting a recursive loop nightmare. As a n00b JS developer, freshly graduated from Launch Academy,
 this was  really awesome challenge...difficult and beautiful in  many ways. I enjoyed every bit of it.
 Some of the Pseudo Code and the Graph I had to draw out to understand the Problem
-![Graph](graph.jpeg)
-![Pseudocode](graph2.jpeg)
+![Graph]('https://raw.githubusercontent.com/cassking/kiwililand-trains-directed-graph-js/master/graph.jpg')
+
 
 The Problem
 -------
