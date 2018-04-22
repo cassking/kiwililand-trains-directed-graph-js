@@ -1,5 +1,8 @@
 Note:
 -------
+I have yet to finish part two: shortest route
+
+
 This was a coding challenge  I received recently. It was very difficult for me
 but I finally found a solution for 1. through 5. I attempted
 8. and 9. but I am hitting a recursive loop nightmare. As a n00b JS developer, freshly graduated from Launch Academy,
