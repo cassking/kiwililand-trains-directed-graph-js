@@ -54,8 +54,7 @@ function shortestRoute(start, end) {
     console.log('NewGraph:, Key:___', key,'End___',end)
     splitKey = key.split("")
     distance = calculateDistance(splitKey[1],end)
-    console.log('Splitkey:___', splitKey[1], 'End:___', end)
-
+    console.log('Splitkey:___', splitKey[1], 'End:___', end
     if (distance < minDistance) {
       minDistance = distance
     }
